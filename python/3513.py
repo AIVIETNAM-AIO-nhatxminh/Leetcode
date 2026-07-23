@@ -1,7 +1,5 @@
 from typing import List
 
-
-
 class Solution:
     def uniqueXorTriplets(self, nums: List[int]) -> int:
         max_num = len(nums)
