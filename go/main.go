@@ -166,7 +166,15 @@ func main() {
 	// fmt.Print(numberOfWays(s))
 
 	// Problem 2998
-	x := 26
-	y := 1
-	fmt.Print(minimumOperationsToMakeEqual(x, y))
+	// x := 26
+	// y := 1
+	// fmt.Print(minimumOperationsToMakeEqual(x, y))
+
+	// Problem 678
+	// s := "((*)"
+	// fmt.Print(checkValidString(s))
+
+	// Problem 856
+	s := "(())"
+	fmt.Print(scoreOfParentheses(s))
 }
